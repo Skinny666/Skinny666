@@ -23,6 +23,14 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Skinny666/output/main/pacman-contributions.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Skinny666/output/main/pacman-contributions.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Skinny666/output/main/pacman-contributions.svg">
+</picture>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/luan-oliveira-990b44213" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -40,14 +48,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Skinny666&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Skinny666&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Skinny666/output/main/pacman-contributions.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Skinny666/output/main/pacman-contributions.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Skinny666/output/main/pacman-contributions.svg">
-</picture>
 
 ###
 
