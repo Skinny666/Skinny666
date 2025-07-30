@@ -11,20 +11,27 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
-<img src="https://cdn.brandfetch.io/id7gN4JouK/w/260/h/260/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1751031787055" height="60"/>
-  <img src="https://cdn.brandfetch.io/id6z4_raly/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" height="60"/>
-    <img src="https://www.svgrepo.com/show/452091/python.svg" height="60"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="Linux" />
+  <img width="12" />
+  <img src="https://cdn.brandfetch.io/id7gN4JouK/w/260/h/260/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1751031787055" height="50" alt="n8n logo" style="border-radius: 10px;" />
+  <img width="12" />
+  <img src="https://cdn.brandfetch.io/id6z4_raly/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" height="50" alt="Bubble logo" style="border-radius: 10px;" />
 </div>
+
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="https://www.linkedin.com/in/luan-oliveira-990b44213" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/luaan.oliv.ra" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
 </div>
+
 
 ###
 
