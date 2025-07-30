@@ -10,6 +10,26 @@
 
 ###
 
+### 🇺🇸 English | About me
+
+<p> I am currently studying Computer Networks and beginning my journey in the field of cybersecurity. I've been exploring tools like Linux, Nmap, and Metasploit, and actively participating in platforms such as Hack The Box Academy and TryHackMe, which have helped me build a strong foundation of practical knowledge.
+
+At my current company, I also develop custom scripts to automate tasks and improve internal operations. Additionally, I contribute to promoting good security practices within my team, supporting more efficient and protected workflows.
+
+Although I'm still at the early stages of this path, I am driven by curiosity and determination to become a standout professional. I'm constantly seeking new learning opportunities and ways to apply my knowledge, always aiming to help create safer and more reliable digital environments.
+
+
+### 🇧🇷 Português | Sobre mim
+Atualmente estou cursando Redes de Computadores e iniciando minha jornada na área de cibersegurança. Tenho explorado ferramentas como Linux, Nmap e Metasploit, além de participar ativamente de plataformas como Hack The Box Academy e TryHackMe, que têm me ajudado a construir uma base sólida de conhecimento prático.
+
+Na empresa onde trabalho, também crio scripts personalizados para automatizar tarefas e melhorar os processos internos. Além disso, contribuo com a promoção de boas práticas de segurança no setor, apoiando operações mais eficientes e protegidas.
+
+Apesar de estar no início dessa trajetória, sou movido pela curiosidade e determinação para me tornar um profissional de destaque. Estou em constante busca por aprendizado e por oportunidades de aplicar meus conhecimentos, sempre com o objetivo de construir ambientes digitais mais seguros e confiáveis.
+
+</p>
+
+###
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="Python" />
   <img width="12" />
